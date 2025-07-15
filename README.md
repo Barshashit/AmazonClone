@@ -1,1 +1,1 @@
-# AmazonClone
+# https://barshashit.github.io/AmazonClone/
